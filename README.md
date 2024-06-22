@@ -35,4 +35,4 @@ Accident rise in UK led to the study of this data set for valuable insights on i
 
 ### RECOMMENDATION
 
-I recommend that security measures be put in place including strict road laws at specific times of the day with high acdcident occurences. 
+I recommend that security measures be put in place including strict road laws at specific times of the day with high accident occurences. 
